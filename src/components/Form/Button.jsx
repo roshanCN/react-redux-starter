@@ -26,7 +26,7 @@ function Button({
                     :
                     <FontAwesomeIcon icon={icon} className="mr-2" />
                 }
-                {labelText ? labelText : 'submit'}
+                {labelText ? labelText : 'Submit'}
             </small>
         </button>
     )
